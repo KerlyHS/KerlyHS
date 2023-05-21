@@ -18,7 +18,7 @@ Soy Kerly Huachaca una estudiante de Ingeniería en Ciencias de la Computación 
 -Comunicación: Capacidad para expresar ideas de manera clara y concisa tanto de forma escrita como verbal.
 
 ### Objetivos profesionales:
-Como estudiante de Ingeniería en Ciencias de la Computación, mi objetivo es adquirir experiencia práctica a través de pasantías o proyectos en la industria de desarrollo de software. Deseo aplicar mis conocimientos teóricos y habilidades técnicas para enfrentar desafíos reales y seguir creciendo profesionalmente. Mi aspiración a largo plazo es convertirme en un ingeniero en Ciencias de la Computación altamente capacitado y contribuir al desarrollo de soluciones tecnológicas innovadoras que tengan un impacto positivo en la sociedad.
+Como estudiante de Ingeniería en Ciencias de la Computación, mi objetivo es adquirir experiencia práctica a través de pasantías o proyectos en la industria de desarrollo de software. Deseo aplicar mis conocimientos teóricos y habilidades técnicas para enfrentar desafíos reales y seguir creciendo profesionalmente. Mi aspiración a largo plazo es convertirme en un ingeniera en Ciencias de la Computación altamente capacitado y contribuir al desarrollo de soluciones tecnológicas innovadoras que tengan un impacto positivo en la sociedad.
 
 <!--
 **KerlyHS/KerlyHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
