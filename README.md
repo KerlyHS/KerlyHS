@@ -1,5 +1,5 @@
 ### Saludos.👋 
-Soy Kerly Huachaca una estudiante de Ingeniería en Ciencias de la Computación apasionado por la tecnología y el desarrollo de software. Me gusta explorar nuevos conceptos y soluciones innovadoras para los desafíos informáticos. Tengo una sólida formación en programación y un enfoque en el aprendizaje continuo para mantenerme actualizado en un campo en constante evolución.
+Soy Kerly Huachaca una estudiante de Ingeniería en Ciencias de la Computación apasionado por la tecnología y el desarrollo de software. Me gusta explorar nuevos conceptos y soluciones innovadoras para los desafíos informáticos. Tengo un enfoque en el aprendizaje continuo y actualizado en un campo en constante evolución de min carrera.
 
 
 
